@@ -1,1 +1,1 @@
-![App Screenshot](./src/assets/postman.png)
+![App Screenshot](./frontend/src/assets/postman.png)
